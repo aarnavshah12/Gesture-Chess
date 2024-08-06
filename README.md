@@ -51,7 +51,7 @@ Gesture-Controlled Chess Game is an innovative project that allows you to play c
 1. Clone the repository:
     ```bash
     git clone https://github.com/aarnavshah12/Gesture-Chess.git
-    cd gesture-controlled-chess
+    cd Gesture_Chess
     ```
 
 2. Install the required dependencies:
