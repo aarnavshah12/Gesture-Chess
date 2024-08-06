@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Posture Detection Chess",
+			"path": "."
+		},
+		{
+			"name": "pieces",
+			"path": "../chess-main/chess-main/pieces"
+		}
+	],
+	"settings": {}
+}
