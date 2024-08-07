@@ -19,6 +19,7 @@ A chess game controlled by hand gestures, developed to make playing more accessi
 Gesture-Controlled Chess Game is an innovative project that allows you to play chess using hand gestures. The game uses real-time gesture recognition to move chess pieces and interact with the game interface, providing an engaging and accessible way to play chess without a traditional mouse or keyboard.
 
 ## Features
+![chess](https://github.com/user-attachments/assets/9b1b5716-3786-4efe-af6e-7784e20dc73d)
 
 - **Gesture Control**: Play chess using hand gestures, providing an innovative and engaging way to interact with the game.
 - **Index Finger Control**: Use your index finger to control the cursor on the screen.
@@ -40,6 +41,7 @@ Gesture-Controlled Chess Game is an innovative project that allows you to play c
 - For the best detection results, keep your hands close to your body and within the camera's view.
 
 ### Chess Engine
+![chess gh](https://github.com/user-attachments/assets/d386487b-5d6b-458b-8bc8-0600597a936c)
 
 - The chess engine uses a basic minimax algorithm with alpha-beta pruning for decision-making.
 - Note: The bot is not fully AI and has limitations in advanced strategic play.
