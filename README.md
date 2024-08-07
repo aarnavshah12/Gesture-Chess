@@ -31,6 +31,8 @@ Gesture-Controlled Chess Game is an innovative project that allows you to play c
 ## How It Works
 
 ### Gesture Recognition
+![connection of index and thumb](https://github.com/user-attachments/assets/18559705-b65e-47bf-9387-a7f6e55faf89)
+![moves cursor](https://github.com/user-attachments/assets/41884287-d822-4169-8458-7344eb0b92f6)
 
 - The game uses OpenCV to capture video input from your webcam.
 - **Cursor Control**: Move your index finger to control the cursor on the screen.
