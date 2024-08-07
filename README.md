@@ -61,7 +61,9 @@ Gesture-Controlled Chess Game is an innovative project that allows you to play c
 
 2. Install the required dependencies:
     ```bash
-    pip install -r requirements.txt
+    pip install opencv-python
+    pip install mediapipe
+    pip install pygame
     ```
 
 3. Ensure you have a webcam connected to your computer.
