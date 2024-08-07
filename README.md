@@ -103,6 +103,9 @@ Gesture-Controlled Chess Game is an innovative project that allows you to play c
 - **Chess Bot**: The current bot uses a minimax algorithm and is not a fully developed AI. Future work could involve integrating a more advanced AI for better gameplay.
 - **Gesture Variability**: Expanding the range of recognized gestures to improve user interaction.
 
+## Demo Video
+https://youtu.be/qLC39iiFW08?si=nQyydNJcIqStEr3m
+
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or want to report bugs, please open an issue or submit a pull request.
