@@ -20,6 +20,7 @@ Gesture-Controlled Chess Game is an innovative project that allows you to play c
 
 ## Features
 ![chess](https://github.com/user-attachments/assets/9b1b5716-3786-4efe-af6e-7784e20dc73d)
+![gesture chess](https://github.com/user-attachments/assets/69ea2e95-83bc-4da5-add7-22b644a50837)
 
 - **Gesture Control**: Play chess using hand gestures, providing an innovative and engaging way to interact with the game.
 - **Index Finger Control**: Use your index finger to control the cursor on the screen.
